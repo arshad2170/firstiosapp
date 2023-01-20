@@ -44,7 +44,7 @@ class ViewController: UIViewController {
     func Increment(){
         outcome = outcome + count;
         output.text = String(outcome);
-        
+        //Test github
     }
     
     func Reset(){
